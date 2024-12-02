@@ -1,0 +1,1 @@
+This is the repository where I will slowly upload solution of all the puzzles from Advent of Code - 2024 in Go. 
